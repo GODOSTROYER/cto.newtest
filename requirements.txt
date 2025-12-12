@@ -1,0 +1,4 @@
+pytest==7.4.3
+requests==2.31.0
+sqlalchemy==2.0.23
+urllib3==2.1.0
